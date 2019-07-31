@@ -13,4 +13,6 @@ A repository to practice Git
 
 ## Team
 
-1. (Your name goes here)
+1. Vishnu K Raman
+2. Anupam Shukla
+3. Venkatesh K.
