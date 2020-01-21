@@ -17,4 +17,13 @@ A repository to practice Git
 2. Anupam Shukla
 3. Venkatesh K.
 4. Adarsh Mohan
-5. Tejal R K
+5. Abhijith
+6. Prajwal A
+7. Pruthvi
+8. Nischitha
+9. Rohit Sreekumar
+10. Abhinav Vinod
+11. Pranav Jeevan
+12. Varun Prathap Singh
+13. Tejal R K
+
