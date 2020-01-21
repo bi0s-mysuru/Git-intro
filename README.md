@@ -22,3 +22,5 @@ A repository to practice Git
 7. Pruthvi
 8. Nischitha
 9. Rohit Sreekumar
+10. Abhinav Vinod
+
