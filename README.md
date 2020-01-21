@@ -21,5 +21,7 @@ A repository to practice Git
 6. Prajwal A
 7. Pruthvi
 8. Nischitha
-9. Pranav Jeevan
+9. Rohit Sreekumar
+10. Abhinav Vinod
+11. Pranav Jeevan
 
