@@ -19,3 +19,4 @@ A repository to practice Git
 4. Adarsh Mohan
 5. Abhijith
 6. Prajwal A
+8. Nischitha
