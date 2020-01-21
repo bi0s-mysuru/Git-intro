@@ -18,3 +18,4 @@ A repository to practice Git
 3. Venkatesh K.
 4. Adarsh Mohan
 5. Abhijith
+6. Prajwal A
