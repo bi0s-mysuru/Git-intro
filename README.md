@@ -27,4 +27,9 @@ A repository to practice Git
 12. Varun Prathap Singh
 13. Tejal R K
 14. Abhijna P S
-15. Sona Haris
+15. Vibha Harish
+16. Padmaja Preksha D
+17. M J Shashank
+18. Varada Sanil
+19. Preetham R
+20. Sona Haris
