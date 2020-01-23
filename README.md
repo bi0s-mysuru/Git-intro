@@ -36,6 +36,13 @@ A repository to practice Git
 21. M J Shashank
 22. Varada Sanil
 23. Sona Haris
-24. Haripriya R Srinivas
-25. Srinag R
+24. Hemanth Kumar M
+25. Preetham R
+26. Akshay R
+27. Maheswar JM
+28. Meenu Ann George
+29. Apeksha Rao
+30. Haripriya R Srinivas
+31. Srinag R
+
 
